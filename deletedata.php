@@ -44,6 +44,7 @@ $result = $conn->query($sql);
 
 <html lang="en">
   <head>
+      <title>New PHP Page </title>
  <style>
 table, th, td {
   border: 1px solid black;
